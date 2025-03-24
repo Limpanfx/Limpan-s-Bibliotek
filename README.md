@@ -12,3 +12,7 @@
 ## Installation
 
 - **Ladda ner eller klona projektet.**
+
+## Extra Information
+
+- **Jag har tagit hjälp ifrån youtube tutorials och liknande för information.**
