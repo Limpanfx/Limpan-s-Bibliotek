@@ -11,4 +11,4 @@
 
 ## Installation
 
-1. Ladda ner eller klona projektet:
+- **Ladda ner eller klona projektet.**
